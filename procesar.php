@@ -68,7 +68,7 @@ endif;
 </tbody>
 </table>
 <div id="link" class="text-center mt-4">
-<a href="ingresodatos.html" class="btn btn-primary">Ingresar nuevos datos</a>
+<a href="ingresosdatos.html" class="btn btn-primary">Ingresar nuevos datos</a>
 </div>
 </div>
 </article>
