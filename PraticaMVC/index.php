@@ -1,6 +1,6 @@
 <?php
 include_once 'Controllers/EditorialesController.php';
-include_once 'Controllers/AutoresController.php'; // AÑADE ESTA LÍNEA
+include_once 'Controllers/AutoresController.php'; 
 include_once 'Controllers/IndexController.php';
 
 const PATH = '/lis2025/Pratica7';
